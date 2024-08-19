@@ -1,6 +1,6 @@
 #pragma once
 
-#ifdef USB_INDICATOR
+ifdef USB_INDICATOR
 #undef USB_INDICATOR
 #endif
 //#ifdef ESB_INDICATOR
