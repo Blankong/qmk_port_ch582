@@ -2,7 +2,7 @@
 
 #ifdef USB_INDICATOR
 #undef USB_INDICATOR
-#endif
+//#endif
 //#ifdef ESB_INDICATOR
 //#undef ESB_INDICATOR
 //#endif
